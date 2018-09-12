@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=thisAngulo
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ thisAngulo\ aqui.\r\n\ \r\n\ @author\ Gabonajonio\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=ladoA
+comment1.target=thisAngulo(double)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ thisAngulo\r\n
+comment2.params=ladoA\ ladoB
+comment2.target=thisAngulo(double,\ double)
+comment2.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ thisAngulo\r\n
+comment3.params=ladoA\ ladoB\ ladoC
+comment3.target=thisAngulo(double,\ double,\ double)
+comment3.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ thisAngulo\r\n
+numComments=4
