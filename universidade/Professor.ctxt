@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Professor
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Professor\ aqui.\r\n\ \r\n\ @author\ Gabonagy\r\n\ @version\ 12/09/2018\r\n
+comment1.params=nome\ departamento
+comment1.target=Professor(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Professor\r\n
+comment2.params=nome\ departamento\ admissao
+comment2.target=Professor(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=dp
+comment3.target=void\ setDepartamento(java.lang.String)
+comment4.params=dept
+comment4.target=void\ setDepartamento(int)
+numComments=5
