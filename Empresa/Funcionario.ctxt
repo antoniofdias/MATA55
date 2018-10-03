@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Funcionario
+comment0.text=\r\n\ @author\ Gabonio\r\n\ @version\ 26/09/2018\r\n
+comment1.params=nome\ numeroMatricula\ funcao\ departamento\ salario
+comment1.target=Funcionario(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ double)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Funcionario\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=double\ getSalario()
+numComments=4

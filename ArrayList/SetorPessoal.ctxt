@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SetorPessoal
+comment1.params=
+comment1.target=SetorPessoal()
+comment1.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ SetorPessoal\r\n
+comment2.params=nome\ matricula\ funcao\ departamento\ salario
+comment2.target=void\ contrataFuncionario(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ double)
+comment3.params=matricula
+comment3.target=void\ demiteFuncionario(java.lang.String)
+comment4.params=nome
+comment4.target=double\ consultaSalario(java.lang.String)
+numComments=5
